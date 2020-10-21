@@ -1,0 +1,44 @@
+body{
+	background : grey;
+	background: linear-gradient(to bottom, #ffffff 9%, #666699 79%);
+	font-family :'segoe UI';
+	font-weight : 500;
+}
+div#Birthday{
+	font-weight:645;
+
+}
+div#Title{
+	font-size :3vw;	
+}
+div.subtitle{
+	font-size : 15
+}
+main{
+	margin:10vw 38vw 18vw 35vw;
+}
+.ASD{
+	font-size : 27;
+	width: 20.5vw;
+    height: 4.5vh;
+    padding: 10px;
+    background:#5c8b25;
+	font-family :'segoe UI';
+	font-weight : 500;
+	color : white;
+	text-align: center;
+	width : 60%;
+	height : 50px;
+	border-radius : 10px 10px 10px 10px;
+	padding-top : 3px;
+}
+table{
+	width :100%;
+	border-radius : 70px 70px 70px 70px;
+}
+h1{
+	font-size : 40;
+}
+h3{
+	font-size : 20;
+}
